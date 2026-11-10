@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+ipch/
+packages/
+*.user
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.ipch
+*.tlog
+*.exe
+*.lib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Archives
+*.zip
+*.7z
+
+# macOS
+.DS_Store
+__MACOSX/
